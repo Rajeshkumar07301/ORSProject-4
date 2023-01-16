@@ -1,0 +1,14 @@
+127.0.0.1 - - [07/Jan/2023:10:01:30 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Jan/2023:10:01:31 +0530] "GET /Project-4/ HTTP/1.1" 200 566
+0:0:0:0:0:0:0:1 - - [07/Jan/2023:12:02:55 +0530] "GET /Project-4/WelcomeCtl HTTP/1.1" 200 1423
+0:0:0:0:0:0:0:1 - - [07/Jan/2023:12:02:58 +0530] "GET /Project-4/LoginCtl HTTP/1.1" 200 2833
+0:0:0:0:0:0:0:1 - - [07/Jan/2023:12:02:59 +0530] "POST /Project-4/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [07/Jan/2023:12:02:59 +0530] "GET /Project-4/UserRegistrationCtl HTTP/1.1" 200 5454
+0:0:0:0:0:0:0:1 - - [07/Jan/2023:12:02:59 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [07/Jan/2023:12:02:59 +0530] "GET /js/HTMLCalender.js HTTP/1.1" 404 773
+0:0:0:0:0:0:0:1 - - [07/Jan/2023:12:03:03 +0530] "POST /Project-4/UserRegistrationCtl HTTP/1.1" 200 5661
+0:0:0:0:0:0:0:1 - - [07/Jan/2023:12:03:03 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [07/Jan/2023:12:03:03 +0530] "GET /js/HTMLCalender.js HTTP/1.1" 404 773
+0:0:0:0:0:0:0:1 - - [07/Jan/2023:12:19:16 +0530] "POST /Project-4/UserRegistrationCtl HTTP/1.1" 200 5675
+0:0:0:0:0:0:0:1 - - [07/Jan/2023:12:19:16 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [07/Jan/2023:12:19:16 +0530] "GET /js/HTMLCalender.js HTTP/1.1" 404 773

@@ -13,7 +13,7 @@
 	<form action="<%=ORSView.WELCOME_CTL%>">
 		<%@include file="Header.jsp"%>
 		<h1 align="center">
-			<font size="10px" color="red">Welcome To ORS</font>
+			<font size="10px" color="red">Welcome To NCS tech</font>
 		</h1>
 		<%
 			UserBean beanUserBean = (UserBean) session.getAttribute("user");
@@ -22,7 +22,7 @@
 		%>
 		
 		<h2 align="center">
-			<a href="<%=ORSView.GET_MARKSHEET_CTL%>">Click here to see your
+			<a href="<%=ORSView.GET_MARKSHEET_CTL%>">Click here to check your
 				Marksheet</a>
 		</h2>
 		<%

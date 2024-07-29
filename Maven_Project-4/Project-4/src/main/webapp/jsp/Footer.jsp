@@ -20,7 +20,7 @@
 <body>
 	<div class="footer">
 		<hr>
-		<h3>&copy; Copyrights IBM Solutions</h3>
+		<h3>&copy; Copyrights RAYS Tech</h3>
 	</div>
 </body>
 </html>
